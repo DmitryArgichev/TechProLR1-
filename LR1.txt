@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Morning Dima
+=======
+Hello nadya
+>>>>>>> DIMA
 
